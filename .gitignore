@@ -1,0 +1,34 @@
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+project_env/
+
+# Data and outputs
+
+data/
+outputs/
+
+# Model files
+
+*.pt
+
+# Videos & images
+
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
